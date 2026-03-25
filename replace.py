@@ -21,11 +21,11 @@ urls = [
 ]
 
 videos = [
-    "Media/SANURA/Cinnamon Final.mp4",
-    "Media/SANURA/Gold Final.mp4",
-    "Media/SANURA/Grape Final.mp4",
-    "Media/SANURA/Sunset Final.mp4",
-    "Media/SANURA/Vanilla Final.mp4"
+    "uploads/SANURA/Cinnamon Final.mp4",
+    "uploads/SANURA/Gold Final.mp4",
+    "uploads/SANURA/Grape Final.mp4",
+    "uploads/SANURA/Sunset Final.mp4",
+    "uploads/SANURA/Vanilla Final.mp4"
 ]
 
 # Randomly pick media for each url
